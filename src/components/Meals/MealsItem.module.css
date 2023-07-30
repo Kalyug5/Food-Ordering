@@ -1,0 +1,35 @@
+
+.meals {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: pink;
+    box-shadow: 2px 2px 8px red;
+    border-radius: 1rem;
+    border-bottom: 2px solid black;
+    margin: 1rem;
+    transition: 0s font-size;
+    padding:0 0.5rem;
+    padding-bottom: 1rem;
+}
+.meals:hover{
+    font-size: large;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+.meals h3{
+    font-weight: bold;
+
+}
+
+.description{
+    font-style: italic;
+}
+
+.price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 1.25rem;
+  }

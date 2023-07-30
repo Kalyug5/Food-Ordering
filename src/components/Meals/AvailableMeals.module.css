@@ -1,0 +1,21 @@
+.section{
+    box-shadow: 2px 3px 8px azure;
+    background-color: rgb(27, 149, 206);
+    border-radius:.8rem ;
+    margin: auto;
+    width: 80%;
+}
+
+
+.ul{
+    /* display:flex;
+    justify-content: space-evenly;
+    align-items: center; */
+    list-style: none;
+    margin: 2rem auto;
+    animation: meals-appear 1s ease-out forwards;
+    padding:10px 30px;
+    color:azure
+    
+}
+
