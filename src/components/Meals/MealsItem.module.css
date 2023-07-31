@@ -3,7 +3,7 @@
     display: flex;
     justify-content:space-between;
     align-items: center;
-    background-color: pink;
+    background-color: rgb(56, 234, 234);
     box-shadow: 2px 2px 8px red;
     border-radius: 1rem;
     border-bottom: 2px solid black;
@@ -14,7 +14,7 @@
 }
 .meals:hover{
     font-size: large;
-    transition-duration: 1s;
+    transition-duration: 0ms;
     cursor: pointer;
 }
 

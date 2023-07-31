@@ -5,21 +5,25 @@
 
 
 .button{
-    background-color: rgb(208, 124, 233);
+    background-color: rgb(93, 88, 95);
     color: white;
     font-style: normal;
     padding: 10px;
-    box-shadow: 2px 3px 5px rgb(0, 187, 255);
+    box-shadow: 2px 3px 5px rgb(165, 108, 221);
     border-radius: 10px;
     border: none;
     cursor: pointer;
     margin-right:12px;
     margin: 8px ;
-    transition: all;
+    transition: 0.3s;
+    outline: 5px solid rgb(91, 231, 191);
+    outline-offset: -5px;
 }
 
 .button:hover{
-    font-size: larger;
+    /* font-size: larger; */
+    transform: scale(1.4);
+    outline-offset: 3px;
 } 
 
 
