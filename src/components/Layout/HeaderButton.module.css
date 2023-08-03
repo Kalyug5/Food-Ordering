@@ -10,11 +10,13 @@
     border:none;
     cursor: pointer;
     font:inherit;
+    transition: 0.3s;
 }
 
 .button:hover,.button:active{
     background-color: rgb(181, 126, 233);
-    font-size: larger;
+    transform: scale(1.2);
+
 
 }
 

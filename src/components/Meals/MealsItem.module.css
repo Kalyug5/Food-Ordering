@@ -3,18 +3,18 @@
     display: flex;
     justify-content:space-between;
     align-items: center;
-    background-color: rgb(56, 234, 234);
+    background-color: rgb(97, 226, 189);
     box-shadow: 2px 2px 8px red;
     border-radius: 1rem;
     border-bottom: 2px solid black;
     margin: 1rem;
-    transition: 0s font-size;
+    transition: 0.4s;
     padding:0 0.5rem;
     padding-bottom: 1rem;
 }
 .meals:hover{
     font-size: large;
-    transition-duration: 0ms;
+    
     cursor: pointer;
 }
 

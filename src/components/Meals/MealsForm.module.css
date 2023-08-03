@@ -9,14 +9,14 @@
     color: white;
     font-style: normal;
     padding: 10px;
-    box-shadow: 2px 3px 5px rgb(165, 108, 221);
+    box-shadow: 2px 3px 5px rgb(172, 147, 192);
     border-radius: 10px;
     border: none;
     cursor: pointer;
     margin-right:12px;
     margin: 8px ;
     transition: 0.3s;
-    outline: 5px solid rgb(91, 231, 191);
+    outline: 5px solid rgb(39, 47, 45);
     outline-offset: -5px;
 }
 
