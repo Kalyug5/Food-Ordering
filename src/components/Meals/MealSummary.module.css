@@ -5,7 +5,8 @@
     margin: auto;
     margin-top: -3rem;
     position: relative;
-    background-color: #db7b7b;
+    /* background-color: #db7b7b; */
+    background-image: linear-gradient(#e65050,pink);
     color: white;
     border-radius: 14px;
     padding: 1rem;

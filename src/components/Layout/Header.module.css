@@ -2,6 +2,7 @@
     width:100%;
     height:5.2rem;
     background-color:  rgb(97, 226, 189);
+    background-image: linear-gradient( rgb(97, 226, 189),rgb(137, 197, 223));
     color: white;
     font-weight: bold;
     display: flex;
